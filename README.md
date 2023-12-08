@@ -15,7 +15,7 @@ I enjoy diving into complex problem-solving, crafting clean and efficient code, 
 ## Get In Touch
 Feel free to connect with me to discuss collaborations, projects, or just to say hello!
 - 📧 Email: [sallahd@outlook.com](mailto:sallahd@outlook.com)
-- 🔗 LinkedIn: [Sallah's LinkedIn]([https://www.linkedin.com/in/sallah/](https://www.linkedin.com/in/sallaheddine-dari/))
+- 🔗 LinkedIn: [Sallah's LinkedIn](https://www.linkedin.com/in/sallah/](https://www.linkedin.com/in/sallaheddine-dari/))
 - 🌐 Portfolio: [Sallah's Portfolio](https://www.sallahdari.com)
 
 Let's create something amazing together! 😊🚀
