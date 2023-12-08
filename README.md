@@ -7,7 +7,7 @@ I'm a passionate and dedicated Software Engineering student based in the Netherl
 - 💻 Proficient in JavaScript (Node.js, Vue.js), Java (Spring), and Python for Data Manipulation and AWS SDK
 - ☁️ Certified in AWS and enthusiastic about leveraging cloud solutions.
     - AWS Certified Cloud Practitioner 🥇
-- ☁️ Previously leveraged the power of the cloud for creating data engineering pipelines (AWS Glue, AWS Lambda, AWS Athena, Terraform) 
+- 🌤️ Previously leveraged the power of the cloud for creating data engineering pipelines (AWS Glue, AWS Lambda, AWS Athena, Terraform) 
 - 🌟 Love turning ideas into reality through code
 - 📊 Discovered a passion for Data Engineering during my recent experiences
 
