@@ -4,3 +4,16 @@
     font-weight: bold;
     display: inline-block;
 }
+
+.tree-diagram {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+.tree-diagram li {
+    display: inline-block;
+}
+  
+.tree-diagram ul {
+    margin-left: 20px;
+}

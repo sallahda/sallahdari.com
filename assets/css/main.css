@@ -1794,6 +1794,7 @@ input, select, textarea {
 		header.major p {
 			color: #fff;
 			top: 0;
+			font-size: 15px;
 		}
 
 		@media screen and (max-width: 736px) {
@@ -2808,7 +2809,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #0D0D00;
+			background-color: slategray;
 			color: #c8ece9;
 		}
 
